@@ -1,0 +1,18 @@
+{
+  "name": "webpack4-starter-kit-ts",
+  "version": "1.0.5",
+  "short_name": "w4kitTS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF",
+  "orientation": "portrait-primary",
+  "description": "Webpack 4 starter kit TS",
+  "theme_color": "#ffd1dc",
+  "icons": [
+    {
+      "src": "./assets/images/touch-icon.png",
+      "sizes": "48x48 72x72 96x96 144x144 168x168 192x192",
+      "type": "image/png"
+    }
+  ]
+}
