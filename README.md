@@ -1,4 +1,4 @@
-# webpack4-starter-kit
+# webpack4-starter-kit-ts
 
 Webpack 4 with webpack-dev-server configuration (and Web Components).
 
@@ -87,4 +87,4 @@ $ yarn httpserver
 
 ## Vanilla JS
 
-### PLEASE GO TO [JS REPO](https://github.com/king-prawns/webpack4-starter-kit)
+### Please go to [JS repo](https://github.com/king-prawns/webpack4-starter-kit)
