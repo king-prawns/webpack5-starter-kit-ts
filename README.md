@@ -61,7 +61,7 @@ $ yarn lint
 # Run only type checking
 $ yarn tc
 
-# Run unit tests (ava-ts)
+# Run unit tests (ts-jest)
 $ yarn test
 
 # Runs http-server on port 8082
@@ -79,8 +79,7 @@ $ yarn httpserver
 * [StyleLint](https://github.com/stylelint/stylelint)
 * [Postcss](https://github.com/postcss/postcss)
 * [Autoprefixer](https://github.com/postcss/autoprefixer)
-* [Ava](https://github.com/avajs/ava)
-* <s>[nyc](https://github.com/istanbuljs/nyc)</s> [(open issue)](https://github.com/andywer/ava-ts/issues/7)
+* [Jest](https://github.com/facebook/jest)
 * [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 * [Service Worker](https://github.com/NekR/offline-plugin)
 * Webpack Plugins: Html, Copy, MiniCssExtract, Define
