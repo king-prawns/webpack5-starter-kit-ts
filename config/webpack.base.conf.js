@@ -32,6 +32,8 @@ module.exports = {
     }]
   },
   plugins: [
-    new StyleLintPlugin()
+    new StyleLintPlugin({
+      files: "**/*.pcss"
+    })
   ]
 };
