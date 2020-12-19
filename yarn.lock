@@ -1041,10 +1041,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.10.5.tgz#fbaca34086bdc118011e1f05c47688d432f2d571"
   integrity sha512-DuIRlQbX4K+d5I+GMnv+UfnGh+ist0RdlvOp+JZ7ePJ6KQONCFQv/gKYSU1ZzbVdFSUCKZOltjmpFAGGv5MdYA==
 
-"@types/node@14.14.13":
-  version "14.14.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.13.tgz#9e425079799322113ae8477297ae6ef51b8e0cdf"
-  integrity sha512-vbxr0VZ8exFMMAjCW8rJwaya0dMCDyYW2ZRdTyjtrCvJoENMpdUHOT/eTzvgyA5ZnqRZ/sI0NwqAxNHKYokLJQ==
+"@types/node@14.14.14":
+  version "14.14.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.14.tgz#f7fd5f3cc8521301119f63910f0fb965c7d761ae"
+  integrity sha512-UHnOPWVWV1z+VV8k6L1HhG7UbGBgIdghqF3l9Ny9ApPghbjICXkUJSd/b9gOgQfjM1r+37cipdw/HJ3F6ICEnQ==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -10570,10 +10570,10 @@ webpack-log@^2.0.0:
     ansi-colors "^3.0.0"
     uuid "^3.3.2"
 
-webpack-merge@5.7.0:
-  version "5.7.0"
-  resolved "https://registry.yarnpkg.com/webpack-merge/-/webpack-merge-5.7.0.tgz#004dec31f7a875e590c9731e5bdcd3efad0f2715"
-  integrity sha512-UryoMJGRMwOOh/ie4NXZC1OtT0mkA7Ny2+C/MkWOwTRG+jVNEwChVV/+x8rd+ga2mVLeQ0m+QmzLAg7N36+oag==
+webpack-merge@5.7.2:
+  version "5.7.2"
+  resolved "https://registry.yarnpkg.com/webpack-merge/-/webpack-merge-5.7.2.tgz#55320baf05d8be068ff8112be72c04d7c14a9abd"
+  integrity sha512-7o7qjwcIB6lqHX0VZA2Vxcp8RHftW1LNcaB6t87PEpco/VPlG0Wn9DnvgmcJ0nZU578/vKQfhDSLTF0EZ+pFAg==
   dependencies:
     clone-deep "^4.0.1"
     wildcard "^2.0.0"
