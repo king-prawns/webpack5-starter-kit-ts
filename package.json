@@ -1,7 +1,7 @@
 {
-  "name": "webpack4-starter-kit-ts",
-  "version": "1.0.5",
-  "description": "Webpack 4 starter kit TS",
+  "name": "webpack5-starter-kit-ts",
+  "version": "2.0.0",
+  "description": "Webpack 5 starter kit TS",
   "main": "./src/index.ts",
   "scripts": {
     "dev": "node ./config/dev",
@@ -14,7 +14,7 @@
   },
   "author": "Giorgio Gamberoni <giorgio.gamberoni@gmail.com> (https://github.com/king-prawns)",
   "license": "MIT",
-  "homepage": "https://github.com/king-prawns/webpack4-starter-kit-ts#readme",
+  "homepage": "https://github.com/king-prawns/webpack5-starter-kit-ts#readme",
   "devDependencies": {
     "@types/jest": "26.0.20",
     "@types/node": "14.14.22",

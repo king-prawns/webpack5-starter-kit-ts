@@ -1,7 +1,7 @@
 {
-  "name": "webpack4-starter-kit-ts",
-  "version": "1.0.5",
-  "short_name": "w4kitTS",
+  "name": "webpack5-starter-kit-ts",
+  "version": "2.0.0",
+  "short_name": "w5kitTS",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FFF",
