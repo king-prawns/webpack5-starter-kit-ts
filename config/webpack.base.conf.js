@@ -31,6 +31,9 @@ module.exports = {
       }
     }]
   },
+  stats: {
+    errorDetails: true
+  },
   plugins: [
     new StyleLintPlugin({
       files: "**/*.pcss"
