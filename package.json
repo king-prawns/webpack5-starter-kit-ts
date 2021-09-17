@@ -17,7 +17,7 @@
   "homepage": "https://github.com/king-prawns/webpack5-starter-kit-ts#readme",
   "devDependencies": {
     "@types/jest": "27.0.1",
-    "@types/node": "16.9.1",
+    "@types/node": "16.9.2",
     "autoprefixer": "10.3.4",
     "chalk": "4.1.2",
     "clean-webpack-plugin": "4.0.0",
@@ -55,7 +55,7 @@
     "tslint-loader": "3.6.0",
     "typescript": "4.4.3",
     "url-loader": "4.1.1",
-    "webpack": "5.52.1",
+    "webpack": "5.53.0",
     "webpack-cli": "4.8.0",
     "webpack-dev-server": "4.2.1",
     "webpack-merge": "5.8.0"
