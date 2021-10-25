@@ -6,7 +6,7 @@
   "display": "standalone",
   "background_color": "#FFF",
   "orientation": "portrait-primary",
-  "description": "Webpack 4 starter kit TS",
+  "description": "Webpack 5 starter kit TS",
   "theme_color": "#ffd1dc",
   "icons": [
     {
