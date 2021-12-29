@@ -1206,10 +1206,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.10.5.tgz#fbaca34086bdc118011e1f05c47688d432f2d571"
   integrity sha512-DuIRlQbX4K+d5I+GMnv+UfnGh+ist0RdlvOp+JZ7ePJ6KQONCFQv/gKYSU1ZzbVdFSUCKZOltjmpFAGGv5MdYA==
 
-"@types/node@17.0.4":
-  version "17.0.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.4.tgz#fec0ce0526abb6062fd206d72a642811b887a111"
-  integrity sha512-6xwbrW4JJiJLgF+zNypN5wr2ykM9/jHcL7rQ8fZe2vuftggjzZeRSM4OwRc6Xk8qWjwJ99qVHo/JgOGmomWRog==
+"@types/node@17.0.5":
+  version "17.0.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.5.tgz#57ca67ec4e57ad9e4ef5a6bab48a15387a1c83e0"
+  integrity sha512-w3mrvNXLeDYV1GKTZorGJQivK6XLCoGwpnyJFbJVK/aTBQUxOCaa/GlFAAN3OTDFcb7h5tiFG+YXCO2By+riZw==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -4705,26 +4705,6 @@ locate-path@^5.0.0:
   dependencies:
     p-locate "^4.1.0"
 
-lodash.difference@^4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/lodash.difference/-/lodash.difference-4.5.0.tgz#9ccb4e505d486b91651345772885a2df27fd017c"
-  integrity sha1-nMtOUF1Ia5FlE0V3KIWi3yf9AXw=
-
-lodash.forown@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/lodash.forown/-/lodash.forown-4.4.0.tgz#85115cf04f73ef966eced52511d3893cc46683af"
-  integrity sha1-hRFc8E9z75ZuztUlEdOJPMRmg68=
-
-lodash.get@^4.4.2:
-  version "4.4.2"
-  resolved "https://registry.yarnpkg.com/lodash.get/-/lodash.get-4.4.2.tgz#2d177f652fa31e939b4438d5341499dfa3825e99"
-  integrity sha1-LRd/ZS+jHpObRDjVNBSZ36OCXpk=
-
-lodash.groupby@^4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/lodash.groupby/-/lodash.groupby-4.6.0.tgz#0b08a1dcf68397c397855c3239783832df7403d1"
-  integrity sha1-Cwih3PaDl8OXhVwyOXg4Mt90A9E=
-
 lodash.memoize@4.x, lodash.memoize@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/lodash.memoize/-/lodash.memoize-4.1.2.tgz#bcc6c49a42a2840ed997f323eada5ecd182e0bfe"
@@ -5992,17 +5972,13 @@ postcss-replace-overflow-wrap@^4.0.0:
   resolved "https://registry.yarnpkg.com/postcss-replace-overflow-wrap/-/postcss-replace-overflow-wrap-4.0.0.tgz#d2df6bed10b477bf9c52fab28c568b4b29ca4319"
   integrity sha512-KmF7SBPphT4gPPcKZc7aDkweHiKEEO8cla/GjcBK+ckKxiZslIu3C4GCRW3DNfL0o7yW7kMQu9xlZ1kXRXLXtw==
 
-postcss-reporter@7.0.4:
-  version "7.0.4"
-  resolved "https://registry.yarnpkg.com/postcss-reporter/-/postcss-reporter-7.0.4.tgz#640de7ef30fa89374bc0d5029c307ad2ecda25c3"
-  integrity sha512-jY/fnpGSin7kwJeunXbY35STp5O3VIxSFdjee5JkoPQ+FfGH5JW3N+Xe9oAPcL9UkjWjkK+JC72o8XH4XXKdhw==
+postcss-reporter@7.0.5:
+  version "7.0.5"
+  resolved "https://registry.yarnpkg.com/postcss-reporter/-/postcss-reporter-7.0.5.tgz#e55bd0fdf8d17e4f25fb55e9143fcd79349a2ceb"
+  integrity sha512-glWg7VZBilooZGOFPhN9msJ3FQs19Hie7l5a/eE6WglzYqVeH3ong3ShFcp9kDWJT1g2Y/wd59cocf9XxBtkWA==
   dependencies:
-    lodash.difference "^4.5.0"
-    lodash.forown "^4.4.0"
-    lodash.get "^4.4.2"
-    lodash.groupby "^4.6.0"
-    lodash.sortby "^4.7.0"
     picocolors "^1.0.0"
+    thenby "^1.3.4"
 
 postcss-resolve-nested-selector@^0.1.1:
   version "0.1.1"
@@ -7135,6 +7111,11 @@ test-exclude@^6.0.0:
     "@istanbuljs/schema" "^0.1.2"
     glob "^7.1.4"
     minimatch "^3.0.4"
+
+thenby@^1.3.4:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/thenby/-/thenby-1.3.4.tgz#81581f6e1bb324c6dedeae9bfc28e59b1a2201cc"
+  integrity sha512-89Gi5raiWA3QZ4b2ePcEwswC3me9JIg+ToSgtE0JWeCynLnLxNr/f9G+xfo9K+Oj4AFdom8YNJjibIARTJmapQ==
 
 throat@^6.0.1:
   version "6.0.1"
