@@ -619,10 +619,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/media-query-list-parser/-/media-query-list-parser-2.1.2.tgz#6ef642b728d30c1009bfbba3211c7e4c11302728"
   integrity sha512-M8cFGGwl866o6++vIY7j1AKuq9v57cf+dGepScwCcbut9ypJNr4Cj+LLTWligYUZ0uyhEoJDKt5lvyBfh2L3ZQ==
 
-"@csstools/media-query-list-parser@^2.1.3":
-  version "2.1.3"
-  resolved "https://registry.yarnpkg.com/@csstools/media-query-list-parser/-/media-query-list-parser-2.1.3.tgz#4471ebd436a22019378fe9c8ac8c0f30c4fbb796"
-  integrity sha512-ATul1u+pic4aVpstgueqxEv4MsObEbszAxfTXpx9LHaeD3LAh+wFqdCteyegWmjk0k5rkSCAvIOaJe9U3DD09w==
+"@csstools/media-query-list-parser@^2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@csstools/media-query-list-parser/-/media-query-list-parser-2.1.4.tgz#0017f99945f6c16dd81a7aacf6821770933c3a5c"
+  integrity sha512-V/OUXYX91tAC1CDsiY+HotIcJR+vPtzrX8pCplCpT++i8ThZZsq5F5dzZh/bDM3WUOjrvC1ljed1oSJxMfjqhw==
 
 "@csstools/postcss-cascade-layers@^4.0.0":
   version "4.0.0"
@@ -722,24 +722,24 @@
   dependencies:
     "@csstools/css-tokenizer" "^2.2.0"
 
-"@csstools/postcss-media-minmax@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@csstools/postcss-media-minmax/-/postcss-media-minmax-1.0.6.tgz#ed4cac86640c2dd4c3aa2ec491afc28527a10151"
-  integrity sha512-BmwKkqEzzQz6D+5ctoacsiGrq4kVgd1PMEPwkwdR0qFaL2C2nguGsWG87xEw+HIts/2yxhIPTm7Jp3DQq+wn3Q==
+"@csstools/postcss-media-minmax@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@csstools/postcss-media-minmax/-/postcss-media-minmax-1.0.7.tgz#6701cf1141d28b5240de9bfae083c8a0af0daa00"
+  integrity sha512-5LGLdu8cJgRPmvkjUNqOPKIKeHbyQmoGKooB5Rh0mp5mLaNI9bl+IjFZ2keY0cztZYsriJsGf6Lu8R5XetuwoQ==
   dependencies:
     "@csstools/css-calc" "^1.1.3"
     "@csstools/css-parser-algorithms" "^2.3.1"
     "@csstools/css-tokenizer" "^2.2.0"
-    "@csstools/media-query-list-parser" "^2.1.3"
+    "@csstools/media-query-list-parser" "^2.1.4"
 
-"@csstools/postcss-media-queries-aspect-ratio-number-values@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@csstools/postcss-media-queries-aspect-ratio-number-values/-/postcss-media-queries-aspect-ratio-number-values-2.0.1.tgz#00d30e83e0b1e82a09ab890dcef80cc41be1ab8c"
-  integrity sha512-UvMYxXT3R011whbxzRwLx7d7eNGyVsnZo7waAmf10ZGnT34XidY+rsdFnk6OdFwuG6FYqw3/tptQEAZOmUgvLw==
+"@csstools/postcss-media-queries-aspect-ratio-number-values@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@csstools/postcss-media-queries-aspect-ratio-number-values/-/postcss-media-queries-aspect-ratio-number-values-2.0.2.tgz#8cb8865ad6311756b5de5179fb65b9c008406b69"
+  integrity sha512-kQJR6NvTRidsaRjCdHGjra2+fLoFiDQOm5B2aZrhmXqng/hweXjruboKzB326rxQO2L0m0T+gCKbZgyuncyhLg==
   dependencies:
     "@csstools/css-parser-algorithms" "^2.3.1"
     "@csstools/css-tokenizer" "^2.2.0"
-    "@csstools/media-query-list-parser" "^2.1.3"
+    "@csstools/media-query-list-parser" "^2.1.4"
 
 "@csstools/postcss-nested-calc@^3.0.0":
   version "3.0.0"
@@ -1493,10 +1493,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.10.5.tgz#fbaca34086bdc118011e1f05c47688d432f2d571"
   integrity sha512-DuIRlQbX4K+d5I+GMnv+UfnGh+ist0RdlvOp+JZ7ePJ6KQONCFQv/gKYSU1ZzbVdFSUCKZOltjmpFAGGv5MdYA==
 
-"@types/node@20.4.7":
-  version "20.4.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.4.7.tgz#74d323a93f1391a63477b27b9aec56669c98b2ab"
-  integrity sha512-bUBrPjEry2QUTsnuEjzjbS7voGWCc30W0qzgMf90GPeDGFRakvrz47ju+oqDAKCXLUCe39u57/ORMl/O/04/9g==
+"@types/node@20.4.10":
+  version "20.4.10"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.4.10.tgz#73c9480791e3ddeb4887a660fc93a7f59353ad45"
+  integrity sha512-vwzFiiy8Rn6E0MtA13/Cxxgpan/N6UeNYR9oUu6kuJWxu6zCk98trcDp8CBhbtaeuq9SykCmXkFr2lWLoPcvLg==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -2126,6 +2126,16 @@ browserslist@^4.20.2:
     node-releases "^2.0.3"
     picocolors "^1.0.0"
 
+browserslist@^4.21.10:
+  version "4.21.10"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.21.10.tgz#dbbac576628c13d3b2231332cb2ec5a46e015bb0"
+  integrity sha512-bipEBdZfVH5/pwrvqc+Ub0kUPVfGUhlKxbvfD+z1BDnPEO/X98ruXGA1WP5ASpAFKan7Qr6j736IacbZQuAlKQ==
+  dependencies:
+    caniuse-lite "^1.0.30001517"
+    electron-to-chromium "^1.4.477"
+    node-releases "^2.0.13"
+    update-browserslist-db "^1.0.11"
+
 browserslist@^4.21.4:
   version "4.21.4"
   resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.21.4.tgz#e7496bbc67b9e39dd0f98565feccdcb0d4ff6987"
@@ -2145,16 +2155,6 @@ browserslist@^4.21.5:
     electron-to-chromium "^1.4.284"
     node-releases "^2.0.8"
     update-browserslist-db "^1.0.10"
-
-browserslist@^4.21.9:
-  version "4.21.9"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.21.9.tgz#e11bdd3c313d7e2a9e87e8b4b0c7872b13897635"
-  integrity sha512-M0MFoZzbUrRU4KNfCrDLnvyE7gub+peetoTid3TBIqtunaDJyXlwhakT+/VkvSXcfIzFfK/nkCs4nmyTmxdNSg==
-  dependencies:
-    caniuse-lite "^1.0.30001503"
-    electron-to-chromium "^1.4.431"
-    node-releases "^2.0.12"
-    update-browserslist-db "^1.0.11"
 
 bs-logger@0.x:
   version "0.2.6"
@@ -2243,10 +2243,10 @@ caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001219, caniuse-lite@^1.0.30001271, can
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001482.tgz"
   integrity sha512-F1ZInsg53cegyjroxLNW9DmrEQ1SuGRTO1QlpA0o2/6OpQ0gFeDRoq1yFmnr8Sakn9qwwt9DmbxHB6w167OSuQ==
 
-caniuse-lite@^1.0.30001503:
-  version "1.0.30001509"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001509.tgz#2b7ad5265392d6d2de25cd8776d1ab3899570d14"
-  integrity sha512-2uDDk+TRiTX5hMcUYT/7CSyzMZxjfGu0vAUjS2g0LSD8UoXOv0LtpH4LxGMemsiPq6LCVIUjNwVM0erkOkGCDA==
+caniuse-lite@^1.0.30001517:
+  version "1.0.30001519"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001519.tgz#3e7b8b8a7077e78b0eb054d69e6edf5c7df35601"
+  integrity sha512-0QHgqR+Jv4bxHMp8kZ1Kn8CH55OikjKJ6JmKkZYP1F3D7w+lnFXF70nG5eNfsZS89jadi5Ywy5UCSKLAglIRkg==
 
 chalk@4.1.2, chalk@^4.1.2:
   version "4.1.2"
@@ -3108,10 +3108,10 @@ electron-to-chromium@^1.4.284:
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.328.tgz#b4565ffa502542b561cea16086d6d9b916c7095a"
   integrity sha512-DE9tTy2PNmy1v55AZAO542ui+MLC2cvINMK4P2LXGsJdput/ThVG9t+QGecPuAZZSgC8XoI+Jh9M1OG9IoNSCw==
 
-electron-to-chromium@^1.4.431:
-  version "1.4.446"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.446.tgz#c23fbc7884bfe43088d5eb908a858dbb35ab190b"
-  integrity sha512-4Gnw7ztEQ/E0eOt5JWfPn9jjeupfUlKoeW5ETKP9nLdWj+4spFoS3Stj19fqlKIaX28UQs0fNX+uKEyoLCBnkw==
+electron-to-chromium@^1.4.477:
+  version "1.4.490"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.490.tgz#d99286f6e915667fa18ea4554def1aa60eb4d5f1"
+  integrity sha512-6s7NVJz+sATdYnIwhdshx/N/9O6rvMxmhVoDSDFdj6iA45gHR8EQje70+RYsF4GeB+k0IeNSBnP7yG9ZXJFr7A==
 
 emittery@^0.13.1:
   version "0.13.1"
@@ -5227,10 +5227,10 @@ node-releases@^2.0.1:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.1.tgz#3d1d395f204f1f2f29a54358b9fb678765ad2fc5"
   integrity sha512-CqyzN6z7Q6aMeF/ktcMVTzhAHCEpf8SOarwpzpf8pNBY2k5/oM34UHldUwp8VKI7uxct2HxSRdJjBaZeESzcxA==
 
-node-releases@^2.0.12:
-  version "2.0.12"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.12.tgz#35627cc224a23bfb06fb3380f2b3afaaa7eb1039"
-  integrity sha512-QzsYKWhXTWx8h1kIvqfnC++o0pEmpRQA/aenALsL2F4pqNVr7YzcdMlDij5WBnwftRbJCNJL/O7zdKaxKPHqgQ==
+node-releases@^2.0.13:
+  version "2.0.13"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.13.tgz#d5ed1627c23e3461e819b02e57b75e4899b1c81d"
+  integrity sha512-uYr7J37ae/ORWdZeQ1xxMJe3NtdmqMC/JZK+geofDrkLUApKRHPd18/TxtBOJ4A0/+uUIliorNrfYV6s1b02eQ==
 
 node-releases@^2.0.3:
   version "2.0.4"
@@ -6000,10 +6000,10 @@ postcss-modules-values@^4.0.0:
   dependencies:
     icss-utils "^5.0.0"
 
-postcss-nesting@^12.0.0:
-  version "12.0.0"
-  resolved "https://registry.yarnpkg.com/postcss-nesting/-/postcss-nesting-12.0.0.tgz#729932293b925ac5bffcb6df1e2620faa0447554"
-  integrity sha512-knqwW65kxssmyIFadRSimaiRyLVRd0MdwfabesKw6XvGLwSOCJ+4zfvNQQCOOYij5obwpZzDpODuGRv2PCyiUw==
+postcss-nesting@^12.0.1:
+  version "12.0.1"
+  resolved "https://registry.yarnpkg.com/postcss-nesting/-/postcss-nesting-12.0.1.tgz#abb76d15dfd59a9f7d03b4464f53b60a4d3795c4"
+  integrity sha512-6LCqCWP9pqwXw/njMvNK0hGY44Fxc4B2EsGbn6xDcxbNRzP8GYoxT7yabVVMLrX3quqOJ9hg2jYMsnkedOf8pA==
   dependencies:
     "@csstools/selector-specificity" "^3.0.0"
     postcss-selector-parser "^6.0.13"
@@ -6177,10 +6177,10 @@ postcss-place@^9.0.0:
   dependencies:
     postcss-value-parser "^4.2.0"
 
-postcss-preset-env@9.1.0:
-  version "9.1.0"
-  resolved "https://registry.yarnpkg.com/postcss-preset-env/-/postcss-preset-env-9.1.0.tgz#3e996fc261f69423a18830f7c301cb286c030d4a"
-  integrity sha512-G+x9BD7jb9uHBB7o720emXV00CP+VdWeirJsHC5ERSpbTd2e6Xg7vHzT+a6UkxFyddALuV+Q8wJMgeTKaau+Pg==
+postcss-preset-env@9.1.1:
+  version "9.1.1"
+  resolved "https://registry.yarnpkg.com/postcss-preset-env/-/postcss-preset-env-9.1.1.tgz#0217fd0d41b9f62f10e1e2c8c5502bbdcb1a76b1"
+  integrity sha512-rMPEqyTLm8JLbvaHnDAdQg6SN4Z/NDOsm+CRefg4HmSOiNpTcBXaw4RAaQbfTNe8BB75l4NpoQ6sMdrutdEpdQ==
   dependencies:
     "@csstools/postcss-cascade-layers" "^4.0.0"
     "@csstools/postcss-color-function" "^3.0.1"
@@ -6194,8 +6194,8 @@ postcss-preset-env@9.1.0:
     "@csstools/postcss-logical-float-and-clear" "^2.0.0"
     "@csstools/postcss-logical-resize" "^2.0.0"
     "@csstools/postcss-logical-viewport-units" "^2.0.1"
-    "@csstools/postcss-media-minmax" "^1.0.6"
-    "@csstools/postcss-media-queries-aspect-ratio-number-values" "^2.0.1"
+    "@csstools/postcss-media-minmax" "^1.0.7"
+    "@csstools/postcss-media-queries-aspect-ratio-number-values" "^2.0.2"
     "@csstools/postcss-nested-calc" "^3.0.0"
     "@csstools/postcss-normalize-display-values" "^3.0.0"
     "@csstools/postcss-oklab-function" "^3.0.1"
@@ -6207,7 +6207,7 @@ postcss-preset-env@9.1.0:
     "@csstools/postcss-trigonometric-functions" "^3.0.1"
     "@csstools/postcss-unset-value" "^3.0.0"
     autoprefixer "^10.4.14"
-    browserslist "^4.21.9"
+    browserslist "^4.21.10"
     css-blank-pseudo "^6.0.0"
     css-has-pseudo "^6.0.0"
     css-prefers-color-scheme "^9.0.0"
@@ -6230,7 +6230,7 @@ postcss-preset-env@9.1.0:
     postcss-initial "^4.0.1"
     postcss-lab-function "^6.0.1"
     postcss-logical "^7.0.0"
-    postcss-nesting "^12.0.0"
+    postcss-nesting "^12.0.1"
     postcss-opacity-percentage "^2.0.0"
     postcss-overflow-shorthand "^5.0.0"
     postcss-page-break "^3.0.4"
