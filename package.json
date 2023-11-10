@@ -16,8 +16,8 @@
   "license": "MIT",
   "homepage": "https://github.com/king-prawns/webpack5-starter-kit-ts#readme",
   "devDependencies": {
-    "@types/jest": "29.5.7",
-    "@types/node": "20.8.10",
+    "@types/jest": "29.5.8",
+    "@types/node": "20.9.0",
     "autoprefixer": "10.4.16",
     "chalk": "4.1.2",
     "clean-webpack-plugin": "4.0.0",
