@@ -17,7 +17,7 @@
   "homepage": "https://github.com/king-prawns/webpack5-starter-kit-ts#readme",
   "devDependencies": {
     "@types/jest": "29.5.12",
-    "@types/node": "20.12.8",
+    "@types/node": "20.12.11",
     "autoprefixer": "10.4.19",
     "clean-webpack-plugin": "4.0.0",
     "copy-webpack-plugin": "12.0.2",
@@ -38,7 +38,7 @@
     "postcss-easy-import": "4.0.0",
     "postcss-load-config": "5.1.0",
     "postcss-loader": "8.1.1",
-    "postcss-preset-env": "9.5.9",
+    "postcss-preset-env": "9.5.11",
     "postcss-reporter": "7.1.0",
     "postcss-responsive-type": "1.0.0",
     "style-loader": "4.0.0",
