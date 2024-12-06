@@ -42,7 +42,7 @@
     "postcss-reporter": "7.1.0",
     "postcss-responsive-type": "1.0.0",
     "style-loader": "4.0.0",
-    "stylelint": "16.10.0",
+    "stylelint": "16.11.0",
     "stylelint-config-standard": "36.0.1",
     "stylelint-webpack-plugin": "5.0.1",
     "terser-webpack-plugin": "5.3.10",
@@ -54,7 +54,7 @@
     "tslint-loader": "3.6.0",
     "typescript": "5.7.2",
     "url-loader": "4.1.1",
-    "webpack": "5.96.1",
+    "webpack": "5.97.1",
     "webpack-cli": "5.1.4",
     "webpack-dev-server": "5.1.0",
     "webpack-merge": "6.0.1"
