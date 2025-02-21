@@ -34,7 +34,7 @@
     "offline-plugin": "5.0.7",
     "opn": "6.0.0",
     "optimize-css-assets-webpack-plugin": "6.0.1",
-    "postcss": "8.5.2",
+    "postcss": "8.5.3",
     "postcss-easy-import": "4.0.0",
     "postcss-load-config": "6.0.1",
     "postcss-loader": "8.1.1",
