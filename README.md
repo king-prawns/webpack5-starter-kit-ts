@@ -2,11 +2,6 @@
 
 Webpack 5 with webpack-dev-server configuration (and Web Components).
 
-## Dependencies
-
-- Node v14.18.0 (or later)
-- Yarn v1.22 (or later) | NPM v6.13.4 (or later)
-
 ## Installation via CLI
 
   * Install w5kit-cli
@@ -81,4 +76,4 @@ $ yarn httpserver
 
 ## Vanilla JS
 
-### Please go to [JS repo](https://github.com/king-prawns/webpack5-starter-kit)
+### [JavaScript repository](https://github.com/king-prawns/webpack5-starter-kit)
