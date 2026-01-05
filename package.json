@@ -38,7 +38,7 @@
     "postcss-easy-import": "4.0.0",
     "postcss-load-config": "6.0.1",
     "postcss-loader": "8.2.0",
-    "postcss-preset-env": "10.5.0",
+    "postcss-preset-env": "10.6.0",
     "postcss-reporter": "7.1.0",
     "postcss-responsive-type": "1.0.0",
     "style-loader": "4.0.0",
