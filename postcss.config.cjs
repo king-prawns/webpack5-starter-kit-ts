@@ -5,7 +5,7 @@ module.exports = async () => {
   const postcssEasyImport = require('postcss-easy-import');
   const postcssResponsiveType = require('postcss-responsive-type');
   const postcssReporter = require('postcss-reporter');
-  const stylelint = require('stylelint');
+  const stylelint = (await import('stylelint')).default;
 
   return {
     plugins: [

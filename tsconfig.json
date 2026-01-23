@@ -5,10 +5,11 @@
     "strict": true,
     "sourceMap": true,
     "noImplicitAny": true,
-    "module": "es6",
+    "module": "NodeNext",
     "target": "es5",
     "jsx": "react",
-    "allowJs": true
+    "allowJs": true,
+    "moduleResolution": "nodenext"
   },
   "include": [
     "src/**/*"
