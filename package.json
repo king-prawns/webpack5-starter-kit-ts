@@ -17,8 +17,8 @@
   "homepage": "https://github.com/king-prawns/webpack5-starter-kit-ts#readme",
   "devDependencies": {
     "@types/jest": "30.0.0",
-    "@types/node": "25.3.0",
-    "autoprefixer": "10.4.24",
+    "@types/node": "25.3.2",
+    "autoprefixer": "10.4.27",
     "clean-webpack-plugin": "4.0.0",
     "copy-webpack-plugin": "13.0.1",
     "css-loader": "7.1.4",
@@ -42,7 +42,7 @@
     "postcss-reporter": "7.1.0",
     "postcss-responsive-type": "1.0.0",
     "style-loader": "4.0.0",
-    "stylelint": "17.3.0",
+    "stylelint": "17.4.0",
     "stylelint-config-standard": "40.0.0",
     "stylelint-webpack-plugin": "5.1.0",
     "terser-webpack-plugin": "5.3.16",
@@ -54,7 +54,7 @@
     "tslint-loader": "3.6.0",
     "typescript": "5.9.3",
     "url-loader": "4.1.1",
-    "webpack": "5.105.2",
+    "webpack": "5.105.3",
     "webpack-cli": "6.0.1",
     "webpack-dev-server": "5.2.3",
     "webpack-merge": "6.0.1"
