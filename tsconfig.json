@@ -6,10 +6,12 @@
     "sourceMap": true,
     "noImplicitAny": true,
     "module": "NodeNext",
-    "target": "es5",
+    "target": "es6",
     "jsx": "react",
     "allowJs": true,
-    "moduleResolution": "nodenext"
+    "moduleResolution": "nodenext",
+    "rootDir": "src",
+    "types": ["jest"],
   },
   "include": [
     "src/**/*"
